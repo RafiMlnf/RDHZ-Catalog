@@ -2,7 +2,7 @@
 
 # Ulangan Akhir Semester - Django Framework
 
-# Anggota Kelompok 
+# Anggota Kelompok 8:
  #### 1.Rizjky Dito Ridwansyah - 312210405
  #### 2.Rafi Maulana Firdaus   - 312210382
  #### 3.Hadi Permana           - 312210445
