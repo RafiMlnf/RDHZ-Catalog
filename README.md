@@ -7,4 +7,3 @@
  #### 2.Rafi Maulana Firdaus   - 312210382
  #### 3.Hadi Permana           - 312210445
  #### 4.Zidan Maulana Perdana  - 312210463
- 
